@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.modal-paper{
+  top: 5%;
+  left: 50%;
+  width: 400px;
+  border: 2px solid black;
+  padding: auto;
+  position: relative;
+  background-color: white;
+}
