@@ -2,7 +2,6 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8080/",
   "engines" : { "node" : ">=0.12" },
   "resolutions": {
     "mini-css-extract-plugin": "2.4.5"
